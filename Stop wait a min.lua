@@ -1,6 +1,6 @@
 return {
 
-  ["stop wait a min"] = {
+  ["Stop wait a min"] = {
 
     {Time = 0.000, Data = {
 
